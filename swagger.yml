@@ -28,7 +28,7 @@ schemes:
 - "https"
 - "http"
 paths:
-  /pet:
+  /pet2:
     post:
       tags:
       - "pet"
